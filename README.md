@@ -1,7 +1,7 @@
 ## Flight Tracking App - Project Flow Summary
 
 ### Overview
-This React Native app is a Flight Tracking Application designed for Maldives Airports Company Limited (MACL). It enables users to search for flights, view flight details from local JSON data, and subscribe to real-time tracking (dummy function). The app supports offline mode by caching data using AsyncStorage and includes a light/dark mode feature.
+This React Native app is a Flight Tracking Application designed for Maldives Airports Company Limited (MACL) as part of a practical exam. It enables users to search for flights, view flight details from local JSON data, and subscribe to real-time tracking (dummy function). The app supports offline mode by caching data using AsyncStorage and includes a light/dark mode feature.
 
 ### Tech Stack
 - **Frontend:** React Native (TypeScript)
