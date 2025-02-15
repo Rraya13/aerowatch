@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "flightNumber": "MAL123",
+    "airline": "Maldivian",
+    "departure": {
+      "airport": "Velana International Airport (MLE)",
+      "short": "MLE",
+      "time": "2025-02-15T10:30:00",
+      "gate": "A12",
+      "terminal": "1"
+    },
+    "arrival": {
+      "airport": "Doha Hamad International (DOH)",
+      "short": "DOH",
+      "time": "2025-02-15T14:00:00",
+      "gate": "D5",
+      "terminal": "3"
+    },
+    "duration": "4h 30m",
+    "status": "On Time",
+    "fare": 250
+  },
+  {
+    "id": 2,
+    "flightNumber": "EK656",
+    "airline": "Emirates",
+    "departure": {
+      "airport": "Velana International Airport (MLE)",
+      "short": "MLE",
+      "time": "2025-02-15T16:00:00",
+      "gate": "B7",
+      "terminal": "1"
+    },
+    "arrival": {
+      "airport": "Dubai International (DXB)",
+      "short": "DXB",
+      "time": "2025-02-15T19:45:00",
+      "gate": "C10",
+      "terminal": "3"
+    },
+    "duration": "3h 45m",
+    "status": "Delayed",
+    "fare": 180
+  },
+  {
+    "id": 3,
+    "flightNumber": "QTR789",
+    "airline": "Qatar Airways",
+    "departure": {
+      "airport": "Doha Hamad International (DOH)",
+      "short": "DOH",
+      "time": "2025-02-15T08:15:00",
+      "gate": "E3",
+      "terminal": "2"
+    },
+    "arrival": {
+      "airport": "Malé Velana International (MLE)",
+      "short": "MLE",
+      "time": "2025-02-15T12:30:00",
+      "gate": "A5",
+      "terminal": "1"
+    },
+    "duration": "4h 15m",
+    "status": "Boarding",
+    "fare": 320
+  },
+  {
+    "id": 4,
+    "flightNumber": "BA204",
+    "airline": "British Airways",
+    "departure": {
+      "airport": "London Heathrow (LHR)",
+      "short": "LHR",
+      "time": "2025-02-15T22:00:00",
+      "gate": "F6",
+      "terminal": "5"
+    },
+    "arrival": {
+      "airport": "New York JFK (JFK)",
+      "short": "JFK",
+      "time": "2025-02-16T06:30:00",
+      "gate": "B8",
+      "terminal": "4"
+    },
+    "duration": "8h 30m",
+    "status": "Scheduled",
+    "fare": 600
+  },
+  {
+    "id": 5,
+    "flightNumber": "SQ321",
+    "airline": "Singapore Airlines",
+    "departure": {
+      "airport": "London Heathrow (LHR)",
+      "short": "LHR",
+      "time": "2025-02-15T11:55:00",
+      "gate": "G12",
+      "terminal": "2"
+    },
+    "arrival": {
+      "airport": "Singapore Changi (SIN)",
+      "short": "SIN",
+      "time": "2025-02-16T08:30:00",
+      "gate": "H9",
+      "terminal": "3"
+    },
+    "duration": "12h 35m",
+    "status": "Landed",
+    "fare": 720
+  },
+  {
+    "id": 6,
+    "flightNumber": "AF76",
+    "airline": "Air France",
+    "departure": {
+      "airport": "Paris Charles de Gaulle (CDG)",
+      "short": "CDG",
+      "time": "2025-02-15T14:00:00",
+      "gate": "D22",
+      "terminal": "2"
+    },
+    "arrival": {
+      "airport": "Los Angeles International (LAX)",
+      "short": "LAX",
+      "time": "2025-02-15T23:30:00",
+      "gate": "E8",
+      "terminal": "4"
+    },
+    "duration": "11h 30m",
+    "status": "On Time",
+    "fare": 850
+  },
+  {
+    "id": 7,
+    "flightNumber": "LH456",
+    "airline": "Lufthansa",
+    "departure": {
+      "airport": "Frankfurt (FRA)",
+      "short": "FRA",
+      "time": "2025-02-15T09:45:00",
+      "gate": "B4",
+      "terminal": "1"
+    },
+    "arrival": {
+      "airport": "San Francisco International (SFO)",
+      "short": "SFO",
+      "time": "2025-02-15T18:30:00",
+      "gate": "C3",
+      "terminal": "2"
+    },
+    "duration": "11h 45m",
+    "status": "Boarding",
+    "fare": 900
+  }
+]
